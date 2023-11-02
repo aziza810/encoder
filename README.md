@@ -33,3 +33,5 @@ The codebase is thoroughly tested to ensure the reliability and correctness of t
 - Jest
 - Antdesign
 - testing-library/react
+## Video Review
+[Watch the video](https://drive.google.com/file/d/1h4t7oO7wh9nh5xK45Fj0vRJg2YfQ7MLI/view)
