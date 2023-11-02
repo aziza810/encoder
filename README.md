@@ -1,7 +1,7 @@
 # Encoder/Decoder
 
 This project is a simple web application for encoding and decoding text using various methods.
-
+![ScreenShot](https://raw.github.com/aziza810/encoder/blob/main/screenshots/Снимок%20экрана%202023-11-02%20в%2020.53.27.png)
 ## Description
 
 ## React + Vite
