@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 600px;
+  background-color: red;
+}
+
+.app {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+  width: 1400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+textarea {
+  width: 100%;
+  height: 150px;
+  font-size: 1em;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: none;
+}
+
+.generated-story {
+  width: 100%;
+  text-align: left;
+  border: 1px solid #ccc;
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 3em; /* Увеличиваем размер шрифта */
+  color: #007bff; /* Изменяем цвет на синий */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Добавляем тень */
+}
+.button-container.hide {
+  display: none;
+}
+
+.button-container.show {
+  display: flex;
+  justify-content: center;
+}
+
+.button-container button {
+  background: none;
+  border: none;
+  font-size: 24px;
+}
